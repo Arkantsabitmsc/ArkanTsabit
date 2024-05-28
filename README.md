@@ -1,2 +1,2 @@
 # ArkanTsabit
-membuat repository pertama
+Hallo ini repository pertama Arkan
