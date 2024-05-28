@@ -1,4 +1,6 @@
 File 1 Arkan
-Saya ingin memahami github
-saya ingin memahmai terminal, IDE, Scrum
-saya ingin memahami JavaScirpt
+ayam
+burung
+ikan
+beruang
+serigala
